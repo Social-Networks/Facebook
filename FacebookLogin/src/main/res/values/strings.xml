@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FacebookLogin</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    /* This is the application ID, that is obtained after creating Facebook application in FB developer console */
+    <string name="app_id">733540373322973</string>
+</resources>
