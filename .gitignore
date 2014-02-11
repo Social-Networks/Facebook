@@ -1,0 +1,9 @@
+# Intellij project files
+*.iws
+.idea/workspace.xml
+.idea/tasks.xml
+
+# Gradle directory
+.gradle
+
+.DS_Store
